@@ -53,7 +53,7 @@ Here are the steps you'll have to complete. For each one, try to find and use th
   </details>
 - Set `flask run` as the command to be executed when running the container.
 
-**Solution**: Will be provided
+**Solution**: <https://gist.github.com/rayennh/ddef970bd780149c2a5d6626062a1b04> 
 
 ## 2. Containerize HAProxy
 
@@ -65,7 +65,7 @@ touch Dockerfile
 ```
 You can now visit the [official HAProxy image page on Docker Hub](https://hub.docker.com/_/haproxy/) and follow the instructions on how to write the Dockerfile. **The HAProxy configuration file is located in the current folder under the name `haproxy.cfg`**.
 
-**Solution**: Will be provided
+**Solution**: <https://gist.github.com/rayennh/61a3d16acf0c0be1807017c974c86b74>
 
 ## 3. Run the containers
 
@@ -94,7 +94,7 @@ Here are the steps you'll have to complete. For each one, try to find and use th
 - List the currently running Docker containers and verify that you can access the application at <http://localhost>.  
   If needed, use the `docker logs` command to troubleshoot any issues.  
 
-**Solution**: Will be provided
+**Solution**: <https://gist.github.com/rayennh/333bae06efca0b914f35cad8e7358e74>
 
 > [!IMPORTANT]
 > Once you’ve completed your tests, make sure to clean up your environment before moving on to the next exercise.
