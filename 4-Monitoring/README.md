@@ -35,7 +35,7 @@ Here are the steps you'll have to complete. For each one, try to find and use th
   - cAdvisor: configure Prometheus to scrape container metrics via cAdvisor.
     Target: `cadvisor:8080`
 
-**Solution**: Will be provided
+**Solution**: <https://gist.github.com/rayennh/0ea50734369e7bc0031b91f17fdddfb3>
 
 ## 2. Start the monitoring stack
 
