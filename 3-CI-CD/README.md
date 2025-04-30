@@ -171,7 +171,7 @@ To make sure not to deploy from random branches, add a rule so that the apply jo
 
 Check which predefined Gitlab CI/CD variable you can use here: <https://docs.gitlab.com/ci/variables/predefined_variables/#predefined-variables>.
 
-**Solution**: Will be provided
+**Solution**: <https://gist.github.com/rayennh/2848b55bebff58d5477a5e96fe1b2d53>
 
 ## 🎉 Congratulations
 
