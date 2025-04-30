@@ -67,7 +67,7 @@ Make sure both containers are attached to the network, and only HAProxy is expos
 
 </details>
 
-**Solution**: Will be provided
+**Solution**: <https://gist.github.com/rayennh/abaf6d476383ab08a4825b42d0868991>
 
 ## 2. Apply the Terraform configuration
 
@@ -87,7 +87,7 @@ Here are the steps you'll have to complete. For each one, try to find and use th
 
 You should be able to access the app at: <http://localhost>
 
-**Solution**: Will be provided
+**Solution**: <https://gist.github.com/rayennh/f1b91e0a844decd008acb30634e86cf8>
 
 > [!IMPORTANT]
 > Once you’ve completed your tests, make sure to clean up your environment before moving on to the next exercise.
